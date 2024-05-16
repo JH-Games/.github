@@ -1,34 +1,19 @@
 <div align="center">
 <img align="center" src="profile/Images/JH-Games-Banner_Thin.png" /></a>
-</div>
 
-
-<p align="center">
-<br/>
-<img align="center" src="https://komarev.com/ghpvc/?username=JH-Games&label=Recent%20Views&color=0e75b6&style=for-the-badge"/>
-<!--img align="center" src="https://img.shields.io/github/followers/joknaa?label=Github&style=flat-square" /-->
- 
-</p>
-
-<br/>
-<br/>
-
-<div align="center">
-	 
 ## The secret laboratory where games ideas are brought to life ! 
-
 ### Check my [**`Persoanl Profile👨‍💻`**](https://github.com/Joknaa) to know more about me. 
+
+<img align="center" src="https://komarev.com/ghpvc/?username=JH-Games&label=Recent%20Views&color=0e75b6&style=for-the-badge"/>
+<img align="center" src="https://img.shields.io/github/followers/JH-Games?label=Followers&style=for-the-badge" />
+
 </div>
 
 
+
 <br/>
-
-<!-- ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ 
-
 
 <!-- ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ --> 
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=JH-Games)](https://github.com/ryo-ma/github-profile-trophy)
 
 
 ## 👨🏻‍💻 Projects :
@@ -77,30 +62,8 @@
 
 
 <br/>
-<br/>
 
 
-<!-- ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ --> 
-
-<br/>
-
-
-<!-- ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ --> 
-
-
-## 🏆 GitHub Trophies
-
-<p align="center" >
-	
-<img align="center" src="https://github-trophies.vercel.app/?username=joknaa&theme=darkhub&no-frame=true&no-bg=true&margin-w=10&rank=SECRET&column=4" >
-<br/><br/>
- 
-<img align="center" src="https://github-trophies.vercel.app/?username=joknaa&theme=darkhub&no-frame=true&no-bg=true&margin-w=10&rank=SSS,SS,S,AAA,AA&column=4" >
-
-
-</p>
-
-<br/>
 <!-- ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ --> 
 
 
