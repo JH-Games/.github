@@ -1,5 +1,5 @@
 <div align="center">
-<img align="center" src="Images/JH-Games-Banner_Thin.png" /></a>
+<img align="center" src="profile/Images/JH-Games-Banner_Thin.png" /></a>
 </div>
 
 
