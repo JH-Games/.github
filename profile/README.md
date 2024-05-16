@@ -6,7 +6,6 @@
 
 ## The secret laboratory where i use my [**`Tools⚒️`**](https://github.com/JH-Assets) to bring games to life ! 
 ### Check my [**`Persoanl Profile👨‍💻`**](https://github.com/Joknaa) to know more about me. 
-### Or my [**`Tools and Assets⚒️`**](https://github.com/JH-Assets) i use and recommend. 
 
 
 
