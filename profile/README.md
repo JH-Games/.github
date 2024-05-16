@@ -5,8 +5,7 @@
 <img align="center" src="https://img.shields.io/github/followers/JH-Games?label=Followers&style=for-the-badge" />
 
 ## The secret laboratory where i use my [**`Tools⚒️`**](https://github.com/JH-Assets) to bring games to life ! 
-### Check my [**`Persoanl Profile👨‍💻`**](https://github.com/Joknaa) to know more about me. 
-
+### You can also check my [**`Persoanl Profile👨‍💻`**](https://github.com/Joknaa).
 
 
 </div>
