@@ -1,5 +1,5 @@
 <div align="center">
-<img align="center" src="profile/Images/JH-Games-Banner_Thin.png" /></a>
+<img align="center" src="Images/JH-Games-Banner_Thin.png" /></a>
 
 <img align="center" src="https://komarev.com/ghpvc/?username=JH-Games&label=Recent%20Views&color=0e75b6&style=for-the-badge"/>
 <img align="center" src="https://img.shields.io/github/followers/JH-Games?label=Followers&style=for-the-badge" />
