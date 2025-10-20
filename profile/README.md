@@ -30,8 +30,6 @@
 <img align="center" src="https://github.com/Joknaa/Joknaa/blob/V2/Resources/ProjectIcons/EmogiLeveling.png" width="100" height="100"/></a>
 <a href="https://play.google.com/store/apps/details?id=com.acrab.zombiewarz">
 <img align="center" src="https://github.com/Joknaa/Joknaa/blob/V2/Resources/ProjectIcons/WarLordZ.png" width="100" height="100"/></a>
-<a href="https://play.google.com/store/apps/details?id=com.acrab.baradventureidle">
-<img align="center" src="https://github.com/Joknaa/Joknaa/blob/V2/Resources/ProjectIcons/BarVenture.jpg" width="100" height="100"/></a> 
 <a href="https://play.google.com/store/apps/details?id=com.acrab.mergingcars">
 <img align="center" src="https://github.com/Joknaa/Joknaa/blob/V2/Resources/ProjectIcons/MergingCars.png" width="100" height="100"/></a> 
 <a href="https://play.google.com/store/apps/details?id=com.acrab.slingnightdrift">
